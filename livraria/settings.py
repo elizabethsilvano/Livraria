@@ -136,7 +136,7 @@ REST_FRAMEWORK = {
 
 SPECTACULAR_SETTINGS = {
     'TITLE': 'Livraria',
-    'DESCRIPTION': 'API com os endpoints e documentação da minha livraria',
+    'DESCRIPTION': 'API Livraria',
     'VERSION': '1.0.0',
 }
 
